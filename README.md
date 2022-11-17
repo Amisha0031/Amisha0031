@@ -19,12 +19,16 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Android**
 
 - 📫 How to reach me **ishaami953@gmail.com**
-[![MasterHead](https://www.fiverr.com/princeharis17/create-a-website-banner-gif)
+- 🌱 I’m currently learning **Python**
+
+- 💬 Ask me about **Android**
+
+- 📫 How to reach me **ishaami953@gmail.com**
+
 
 - ⚡ Fun fact **I am funny**
 <h3 align="left">Connect with me:</h3>
 <p align="left">f
-(img align="right" alt="Coding" width="400" src="https://gfycat.com/gifs/search/funny+computer+gi")
 <a href="https://twitter.com/@amisha_aaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@amisha_aaa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amishakumari1412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amishakumari1412" height="30" width="40" /></a>
 <a href="https://fb.com/amisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amisha" height="30" width="40" /></a>
