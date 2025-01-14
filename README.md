@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Android**
 
-- 📫 How to reach me **ishaami953@gmail.com**
+- 📫 How to reach me **amisha13120@gmail.com**
 
 
 - ⚡ Fun fact **I am funny**
